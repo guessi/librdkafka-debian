@@ -1,3 +1,9 @@
+librdkafka (0.9.1-1ppa1) trusty; urgency=medium
+
+  * Backport from Ubuntu Yakkety to Ubuntu Trusty
+
+ -- guessi mei <guessi@gmail.com>  Sat, 7 Jan 2017 12:15:00 +0800
+
 librdkafka (0.9.1-1) unstable; urgency=medium
 
   * New upstream release (Closes: #816047).
